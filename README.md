@@ -12,10 +12,10 @@ Happy Teachers Day
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/_Sahoochinmay
-[instagram]: https://www.instagram.com/_sahoochinmay/
-[linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
+[twitter]: https://x.com/kumar_ashi41116
+[instagram]: https://www.instagram.com/ashish.jscript/
+[linkedin]: https://www.linkedin.com/in/ashish-kumar-jena/
 [vscode]: https://code.visualstudio.com/
 
 
-[website]: https://sahoochinmay.github.io/TeachersDay/
+[website]: https://ashishkumar448.github.io/Teachers-Day/
